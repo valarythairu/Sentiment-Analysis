@@ -1,4 +1,4 @@
-# Sentiment-Analysis Project
+# Twitter Sentiment Analysis Project
 ![image](https://github.com/valarythairu/Sentiment-Analysis/assets/132980723/f6358118-4a2f-495b-a9e7-1b89af612e0f)
 
 
