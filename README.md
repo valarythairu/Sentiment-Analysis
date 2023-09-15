@@ -87,7 +87,7 @@ iv) Lemmatization was used to reduce words to their common root form
 
 #### 8. Recommendations
 
-1. Despite the model with the highest accuracy being the Logistic Regression model with an `accuracy score` of `0.676`, I would recommend the LSTM Network part of the RNN(Recurrent Neutral Architecture) architecture to the company as the model to use to rate the sentiments in the tweets about their products as it is able to capture as much information as possible effectively without having difficulty learning long-term dependencies. 
+1. Despite the model with the highest accuracy being the Logistic Regression model with an `accuracy score` of `0.676`, I would recommend the LSTM Network part of the RNN(Recurrent Neural Newtork Architecture) architecture to the company as the model to use to rate the sentiments in the tweets about their products as it is able to capture as much information as possible effectively without having difficulty learning long-term dependencies. 
 
 2. I would recommend the company to specifically focus on improving all their products and to be particular:
 
