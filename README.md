@@ -39,11 +39,21 @@ iii) is_there_an_emotion_directed_at_a_brand_or_product: These are the emotions 
 - Accuracy -> Measures how accurate the model is at predicting emotions in tweets.
 
 ### ii) Modelling -> Building a Multi-class Classifier
-- As I had tokenized the data, I built a Multi-class Classifier with the Long Short Term Memory Cells(LSTM) Network that is part of Recurrent Neural Networks(RNN) and applied Dropout and L2 regularization techniques.
+- I built a Multi-class Classifier with the Long Short Term Memory Cells(LSTM) Network that is part of Recurrent Neural Networks(RNN) and applied Dropout and L2 regularization techniques.
 -  I applied Word Embeddings as the Vectorization strategy in the LSTM Network.
 - I also built a Multi-class Classifier with Logistic Regression, Support Vector Machines, and a Random Forest Classifier and applied the TF-IDF Vectorization Strategy for each model.
 - As displayed in the notebook among all the machine learning models run in the entirety of the notebook, `Logistic Regression model` had the best accuracy score for our Multi-class Classifier.
 - The model had an `accuracy score` of `0.676`, `the highest accuracy obtained`.
+  
+- In addition to the steps mentioned above, the following data preprocessing steps were performed:
+
+i) Special characters were removed.
+
+ii) Stopwords were removed.
+
+iii) Tokenization was performed.
+
+iv) Lemmatization was used to reduce words to their common root form
 
 ####  7. Conclusions
 1. The dataset had tweets with different sentiments expressed with the highest sentiment expressed to be Negative emotion as shown below:
