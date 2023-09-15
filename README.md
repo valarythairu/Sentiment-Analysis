@@ -1,5 +1,6 @@
 # Sentiment-Analysis Project
-![wc](https://github.com/valarythairu/Sentiment-Analysis/assets/132980723/25aab412-d53c-445f-944c-90324ff54187)
+![image](https://github.com/valarythairu/Sentiment-Analysis/assets/132980723/f6358118-4a2f-495b-a9e7-1b89af612e0f)
+
 
 ### 1. Business Understanding
 I have been tasked with undertaking a sentiment analysis project for a company. This project aimed to analyze the emotion expressed in customer-generated text data, which in this case are tweets from the social media platform, Twitter, regarding specific brands and products. These tweets were rated by human raters who expressed their opinions on the tweets and identified them as either positive, negative, or other emotions. The objective of this project was to build a model that can rate the feeling of a tweet based on its content just like the human raters.
