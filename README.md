@@ -1,9 +1,12 @@
 # Twitter Sentiment Analysis Project
 ![image](https://github.com/valarythairu/Sentiment-Analysis/assets/132980723/f6358118-4a2f-495b-a9e7-1b89af612e0f)
 
+### Business Understanding Overview
+From a business standpoint let’s look at Sentiment Analysis. The good news is: that with the power of the internet, businesses today get a huge estimate of customer feedback through their business website, social media page, business listings, etc. However, the bad news is a majority of businesses do not even know how to use this information to improve themselves.
+
 
 ### 1. Business Understanding
-I have been tasked with undertaking a sentiment analysis project for a company. This project aimed to analyze the emotion expressed in customer-generated text data, which in this case are tweets from the social media platform, Twitter, regarding specific brands and products. These tweets were rated by human raters who expressed their opinions on the tweets and identified them as either positive, negative, or other emotions. The objective of this project was to build a model that can rate the feeling of a tweet based on its content just like the human raters.
+I have been tasked with undertaking a sentiment analysis project for a company. This project aimed to analyze the emotion expressed in customer-generated text data, which in this case are tweets from the social media platform, Twitter, regarding specific brands and products. These tweets were rated by human raters who expressed their opinions on the tweets and identified them as either positive, negative, or other emotions. The objective of this project was to build a model that can rate the feeling of a tweet based on its content just like the human raters. This will allow the company to move away from collecting sentiments manually by having a team classify each tweet as positive, negative, or neutral and automating sentiment analysis.
 
 #### 2. Data Understanding
 The dataset provided had three real-time columns:
